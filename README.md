@@ -16,11 +16,11 @@ Add to composer.json:
 "repositories": [
     {
         "type": "path",
-        "url": "local_path_to_the_project\\vendor\\dns-resolver-library\\"
+        "url": "local_path_to_the_project/vendor/dns-resolver-library/"
     }   
 ]
 ```
-Add to the dependecies:
+Add to dependencies:
 ```json
 "vova-holub/dns-resolver-library": "1.0.0"
 ```
